@@ -11,6 +11,6 @@ Simple To-Do List app built with HTML, CSS and vanilla JavaScript. (App de lista
 - Save tasks in localStorage.
 - Filter completed / pending tasks.
 
----
 
-🎨 Designed and coded by **Máximo Décima Retamozo** as a practice project.
+
+
